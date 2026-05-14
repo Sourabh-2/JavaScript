@@ -1,7 +1,7 @@
 const name = "Sourabh"  //It cannot be changed.
 let email = "abc@gmail.com"
 var password = "12345"
-city = "Rameshwaram"
+city = "Rameshwaram"  //It is not a good practice.
 let state;   //It will print the undefined value, becuase we didn't give any value in it yet.
 
 
